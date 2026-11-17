@@ -37,14 +37,16 @@ window.PROFILE = {
   // "lane", "tools" and "result" are optional. Delete a line you have nothing real for.
   projects: [
     {
-      name: "[Information Security Fundamentals]",
+      "name": "Information Security Fundamentals",
       lane: "",
-      summary: "[One or two sentences: what you built or wrote, and what it covers.]",
-      tools: ["[Tool(s) you used]"],
-      files: [
-        { label: "[Lab Report]", url: "https://[https://drive.google.com/drive/folders/1oJOw0mLlzTkSmY0j0m1fNeDw4qHlm8XQ?usp=drive_link]" }
-      ]
-    }
+      "summary": "[One or two sentences: what you built or wrote, and what it covers.]",
+      "tools": ["[Tool(s) you used]"],
+      "files": [
+        { 
+          "label": "Lab Report", 
+          "url": "https://[https://drive.google.com/drive/folders/1oJOw0mLlzTkSmY0j0m1fNeDw4qHlm8XQ?usp=drive_link" 
+        }
+    ]
   ],
 
   experience: [
