@@ -44,7 +44,7 @@ window.PROFILE = {
       "files": [
         { 
           "label": "Lab Report", 
-          "url": "https://[https://drive.google.com/drive/folders/1oJOw0mLlzTkSmY0j0m1fNeDw4qHlm8XQ?usp=drive_link" 
+          "url": "https://drive.google.com/drive/folders/1oJOw0mLlzTkSmY0j0m1fNeDw4qHlm8XQ?usp=drive_link" 
         }
     ]
   ],
