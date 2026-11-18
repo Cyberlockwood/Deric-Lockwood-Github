@@ -25,13 +25,13 @@ window.PROFILE = {
   ],
   "projects": [
     {
-      "name": "Governance Program Design",
-      "lane": "Govern",
-      "summary": "Group capstone (with Adepoju and Awoye): a security governance program for a case-study company, covering the problem statement, scope, vision and mission, and current state.",
+      "name": "Information Security Fundamentals",
+      "lane": "",
+      "summary": "",
       "files": [
         {
-          "label": "Final paper",
-          "url": "https://drive.google.com/file/d/1im3WNLGuKB_MUP2s6ZgdNo-ScmYR2xwz/view?usp=sharing"
+          "label": "Lab Report",
+          "url": "https://drive.google.com/drive/folders/1oJOw0mLlzTkSmY0j0m1fNeDw4qHlm8XQ?usp=sharing"
         }
       ]
     },
