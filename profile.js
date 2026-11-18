@@ -9,14 +9,14 @@ window.PROFILE = {
     "soft": "#F2F3F5",
     "accent": "#DDDE34"
   },
-  "name": "Tony Evans",
-  "title": "Cybersecurity Instructor | GRC | Security Awareness | CRISC",
-  "location": "Lithonia, GA",
-  "tagline": "I teach and mentor the next generation of cybersecurity professionals while managing Governance, Risk, and Compliance (GRC) initiatives, including security awareness programs, Data Loss Prevention (DLP) monitoring, and third-party vendor risk assessments.",
+  "name": "Deric Lockwood",
+  "title": "Cybersecurity Student | GRC | Security Awareness | CRISC",
+  "location": "Dallas, GA",
+  "tagline": "I attend chattahoochee technical college in marietta georgia , studying to get an AAS Cybersecurity Degree.",
   "links": {
-    "email": "tonyaevansjr@gmail.com",
+    "email": "dlemuel2001@gmail.com",
     "github": "",
-    "linkedin": "https://www.linkedin.com/in/tonyaevansjr/"
+    "linkedin": "https://www.linkedin.com/in/dericlockwood/"
   },
   "aboutHeadline": "",
   "about": [
@@ -104,9 +104,9 @@ window.PROFILE = {
       ]
     },
     {
-      "role": "Cybersecurity Instructor",
+      "role": "Cybersecurity Student",
       "org": "Chattahoochee Technical College",
-      "dates": "05/2023 – Present",
+      "dates": "08/202 – Present",
       "points": [
         "Designed and delivered online curriculum for 240+ students annually across 7 courses per semester in Blackboard LMS.",
         "Teach Security Policies and Procedures covering SOX, GDPR, CIS Controls, and COBIT, with students writing policies, creating risk registers, and completing hands-on projects for a mock company (Chatt Tech Bank).",
